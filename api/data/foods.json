@@ -1,0 +1,1361 @@
+[
+  {
+    "name": "Apple",
+    "nutrients": {
+      "fiber": "4g",
+      "carbohydrates": "25g",
+      "sugar": "19g"
+    },
+    "vitamins": ["Vitamin C", "Potassium", "Vitamin K"]
+  },
+  {
+    "name": "Banana",
+    "nutrients": {
+      "fiber": "3g",
+      "carbohydrates": "27g",
+      "sugar": "14g"
+    },
+    "vitamins": ["Vitamin B6", "Vitamin C", "Potassium"]
+  },
+  {
+    "name": "Orange",
+    "nutrients": {
+      "fiber": "3g",
+      "carbohydrates": "15g",
+      "sugar": "12g"
+    },
+    "vitamins": ["Vitamin C", "Thiamine", "Folate"]
+  },
+  {
+    "name": "Strawberry",
+    "nutrients": {
+      "fiber": "2g",
+      "carbohydrates": "8g",
+      "sugar": "4g"
+    },
+    "vitamins": ["Vitamin C", "Manganese", "Folate"]
+  },
+  {
+    "name": "Avocado",
+    "nutrients": {
+      "fiber": "10g",
+      "carbohydrates": "12g",
+      "healthy_fats": "15g"
+    },
+    "vitamins": ["Vitamin K", "Folate", "Vitamin E"]
+  },
+  {
+    "name": "Grapes",
+    "nutrients": {
+      "fiber": "1g",
+      "carbohydrates": "17g",
+      "sugar": "16g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin K", "Potassium"]
+  },
+  {
+    "name": "Pineapple",
+    "nutrients": {
+      "fiber": "2g",
+      "carbohydrates": "22g",
+      "sugar": "16g"
+    },
+    "vitamins": ["Vitamin C", "Manganese", "Vitamin B6"]
+  },
+  {
+    "name": "Blueberry",
+    "nutrients": {
+      "fiber": "4g",
+      "carbohydrates": "14g",
+      "sugar": "10g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin K", "Manganese"]
+  },
+  {
+    "name": "Kiwi",
+    "nutrients": {
+      "fiber": "2g",
+      "carbohydrates": "14g",
+      "sugar": "8g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin K", "Vitamin E"]
+  },
+  {
+    "name": "Watermelon",
+    "nutrients": {
+      "fiber": "1g",
+      "carbohydrates": "11g",
+      "sugar": "9g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Potassium"]
+  },
+  {
+    "name": "Mango",
+    "nutrients": {
+      "fiber": "3g",
+      "carbohydrates": "25g",
+      "sugar": "23g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Folate"]
+  },
+  {
+    "name": "Papaya",
+    "nutrients": {
+      "fiber": "3g",
+      "carbohydrates": "15g",
+      "sugar": "11g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Folate"]
+  },
+  {
+    "name": "Peach",
+    "nutrients": {
+      "fiber": "2g",
+      "carbohydrates": "15g",
+      "sugar": "13g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Potassium"]
+  },
+  {
+    "name": "Cherry",
+    "nutrients": {
+      "fiber": "3g",
+      "carbohydrates": "22g",
+      "sugar": "18g"
+    },
+    "vitamins": ["Vitamin C", "Potassium", "Vitamin A"]
+  },
+  {
+    "name": "Plum",
+    "nutrients": {
+      "fiber": "2g",
+      "carbohydrates": "11g",
+      "sugar": "9g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin K", "Vitamin A"]
+  },
+  {
+    "name": "Raspberry",
+    "nutrients": {
+      "fiber": "8g",
+      "carbohydrates": "15g",
+      "sugar": "5g"
+    },
+    "vitamins": ["Vitamin C", "Manganese", "Vitamin K"]
+  },
+  {
+    "name": "Blackberry",
+    "nutrients": {
+      "fiber": "8g",
+      "carbohydrates": "14g",
+      "sugar": "7g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin K", "Manganese"]
+  },
+  {
+    "name": "Coconut",
+    "nutrients": {
+      "fiber": "9g",
+      "carbohydrates": "15g",
+      "healthy_fats": "33g"
+    },
+    "vitamins": ["Iron", "Magnesium", "Vitamin B6"]
+  },
+  {
+    "name": "Lychee",
+    "nutrients": {
+      "fiber": "1g",
+      "carbohydrates": "17g",
+      "sugar": "15g"
+    },
+    "vitamins": ["Vitamin C", "Copper", "Potassium"]
+  },
+  {
+    "name": "Dragonfruit",
+    "nutrients": {
+      "fiber": "7g",
+      "carbohydrates": "22g",
+      "sugar": "13g"
+    },
+    "vitamins": ["Vitamin C", "Magnesium", "Iron"]
+  },
+  {
+    "name": "Grapefruit",
+    "nutrients": {
+      "fiber": "2g",
+      "carbohydrates": "13g",
+      "sugar": "9g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Potassium"]
+  },
+  {
+    "name": "Pomegranate",
+    "nutrients": {
+      "fiber": "7g",
+      "carbohydrates": "34g",
+      "sugar": "24g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin K", "Folate"]
+  },
+  {
+    "name": "Cantaloupe",
+    "nutrients": {
+      "fiber": "1g",
+      "carbohydrates": "13g",
+      "sugar": "12g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Potassium"]
+  },
+  {
+    "name": "Honeydew Melon",
+    "nutrients": {
+      "fiber": "1g",
+      "carbohydrates": "14g",
+      "sugar": "13g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin B6", "Potassium"]
+  },
+  {
+    "name": "Fig",
+    "nutrients": {
+      "fiber": "4g",
+      "carbohydrates": "27g",
+      "sugar": "21g"
+    },
+    "vitamins": ["Vitamin B6", "Copper", "Potassium"]
+  },
+  {
+    "name": "Jackfruit",
+    "nutrients": {
+      "fiber": "3g",
+      "carbohydrates": "39g",
+      "sugar": "31g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Magnesium"]
+  },
+  {
+    "name": "Pear",
+    "nutrients": {
+      "fiber": "6g",
+      "carbohydrates": "27g",
+      "sugar": "17g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin K", "Potassium"]
+  },
+  {
+    "name": "Lemon",
+    "nutrients": {
+      "fiber": "2g",
+      "carbohydrates": "9g",
+      "sugar": "2g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin B6", "Potassium"]
+  },
+  {
+    "name": "Lime",
+    "nutrients": {
+      "fiber": "2g",
+      "carbohydrates": "8g",
+      "sugar": "1g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin B6", "Potassium"]
+  },
+  {
+    "name": "Tangerine",
+    "nutrients": {
+      "fiber": "2g",
+      "carbohydrates": "13g",
+      "sugar": "11g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Potassium"]
+  },
+  {
+    "name": "Cranberry",
+    "nutrients": {
+      "fiber": "4g",
+      "carbohydrates": "12g",
+      "sugar": "4g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin E", "Vitamin K"]
+  },
+  {
+    "name": "Goji Berry",
+    "nutrients": {
+      "fiber": "4g",
+      "carbohydrates": "21g",
+      "sugar": "13g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Iron"]
+  },
+  {
+    "name": "Mulberry",
+    "nutrients": {
+      "fiber": "2g",
+      "carbohydrates": "14g",
+      "sugar": "11g"
+    },
+    "vitamins": ["Vitamin C", "Iron", "Vitamin K"]
+  },
+  {
+    "name": "Passionfruit",
+    "nutrients": {
+      "fiber": "24g",
+      "carbohydrates": "38g",
+      "sugar": "13g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Iron"]
+  },
+  {
+    "name": "Guava",
+    "nutrients": {
+      "fiber": "5g",
+      "carbohydrates": "14g",
+      "sugar": "9g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Potassium"]
+  },
+  {
+    "name": "Kumquat",
+    "nutrients": {
+      "fiber": "5g",
+      "carbohydrates": "16g",
+      "sugar": "9g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Calcium"]
+  },
+  {
+    "name": "Rhubarb",
+    "nutrients": {
+      "fiber": "2g",
+      "carbohydrates": "5g",
+      "sugar": "1g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin K", "Calcium"]
+  },
+  {
+    "name": "Cherry Tomato",
+    "nutrients": {
+      "fiber": "1g",
+      "carbohydrates": "4g",
+      "sugar": "3g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Potassium"]
+  },
+  {
+    "name": "Boysenberry",
+    "nutrients": {
+      "fiber": "8g",
+      "carbohydrates": "15g",
+      "sugar": "9g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin K", "Folate"]
+  },
+  {
+    "name": "Elderberry",
+    "nutrients": {
+      "fiber": "7g",
+      "carbohydrates": "18g",
+      "sugar": "0g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Iron"]
+  },
+  {
+    "name": "Durian",
+    "nutrients": {
+      "fiber": "3g",
+      "carbohydrates": "27g",
+      "sugar": "5g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin B6", "Potassium"]
+  },
+  {
+    "name": "Starfruit",
+    "nutrients": {
+      "fiber": "3g",
+      "carbohydrates": "7g",
+      "sugar": "4g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Potassium"]
+  },
+  {
+    "name": "Persimmon",
+    "nutrients": {
+      "fiber": "6g",
+      "carbohydrates": "31g",
+      "sugar": "21g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Manganese"]
+  },
+  {
+    "name": "Currant",
+    "nutrients": {
+      "fiber": "4g",
+      "carbohydrates": "14g",
+      "sugar": "7g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin K", "Iron"]
+  },
+  {
+    "name": "Coconut Water",
+    "nutrients": {
+      "fiber": "0g",
+      "carbohydrates": "9g",
+      "sugar": "6g"
+    },
+    "vitamins": ["Vitamin C", "Magnesium", "Potassium"]
+  },
+  {
+    "name": "Soursop",
+    "nutrients": {
+      "fiber": "7g",
+      "carbohydrates": "38g",
+      "sugar": "30g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin B1", "Potassium"]
+  },
+  {
+    "name": "Sapodilla",
+    "nutrients": {
+      "fiber": "9g",
+      "carbohydrates": "25g",
+      "sugar": "19g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Iron"]
+  },
+  {
+    "name": "Longan",
+    "nutrients": {
+      "fiber": "1g",
+      "carbohydrates": "15g",
+      "sugar": "13g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin B2", "Potassium"]
+  },
+  {
+    "name": "Rambutan",
+    "nutrients": {
+      "fiber": "1g",
+      "carbohydrates": "20g",
+      "sugar": "13g"
+    },
+    "vitamins": ["Vitamin C", "Iron", "Calcium"]
+  },
+  {
+    "name": "Cherimoya",
+    "nutrients": {
+      "fiber": "5g",
+      "carbohydrates": "28g",
+      "sugar": "20g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin B6", "Magnesium"]
+  },
+  {
+    "name": "Tamarind",
+    "nutrients": {
+      "fiber": "6g",
+      "carbohydrates": "62g",
+      "sugar": "57g"
+    },
+    "vitamins": ["Vitamin C", "Magnesium", "Potassium"]
+  },
+  {
+    "name": "Ackee",
+    "nutrients": {
+      "fiber": "2g",
+      "carbohydrates": "8g",
+      "sugar": "3g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Iron"]
+  },
+  {
+    "name": "Bael Fruit",
+    "nutrients": {
+      "fiber": "3g",
+      "carbohydrates": "31g",
+      "sugar": "25g"
+    },
+    "vitamins": ["Vitamin C", "Calcium", "Potassium"]
+  },
+  {
+    "name": "Bilberry",
+    "nutrients": {
+      "fiber": "3g",
+      "carbohydrates": "15g",
+      "sugar": "10g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin E", "Vitamin K"]
+  },
+  {
+    "name": "Cloudberry",
+    "nutrients": {
+      "fiber": "6g",
+      "carbohydrates": "8g",
+      "sugar": "4g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Iron"]
+  },
+  {
+    "name": "Salak (Snake Fruit)",
+    "nutrients": {
+      "fiber": "2g",
+      "carbohydrates": "12g",
+      "sugar": "9g"
+    },
+    "vitamins": ["Vitamin C", "Calcium", "Iron"]
+  },
+  {
+    "name": "Marionberry",
+    "nutrients": {
+      "fiber": "7g",
+      "carbohydrates": "13g",
+      "sugar": "4g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin K", "Folate"]
+  },
+  {
+    "name": "Sea Buckthorn",
+    "nutrients": {
+      "fiber": "1g",
+      "carbohydrates": "7g",
+      "sugar": "3g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Vitamin E"]
+  },
+  {
+    "name": "Medlar",
+    "nutrients": {
+      "fiber": "6g",
+      "carbohydrates": "17g",
+      "sugar": "10g"
+    },
+    "vitamins": ["Vitamin C", "Potassium", "Vitamin B6"]
+  },
+  {
+    "name": "Camu Camu",
+    "nutrients": {
+      "fiber": "0.5g",
+      "carbohydrates": "7g",
+      "sugar": "1g"
+    },
+    "vitamins": ["Vitamin C", "Potassium", "Iron"]
+  },
+  {
+    "name": "Nance",
+    "nutrients": {
+      "fiber": "2g",
+      "carbohydrates": "11g",
+      "sugar": "8g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin E", "Calcium"]
+  },
+  {
+    "name": "Jujube",
+    "nutrients": {
+      "fiber": "3g",
+      "carbohydrates": "23g",
+      "sugar": "20g"
+    },
+    "vitamins": ["Vitamin C", "Potassium", "Iron"]
+  },
+  {
+    "name": "Santol",
+    "nutrients": {
+      "fiber": "4g",
+      "carbohydrates": "13g",
+      "sugar": "9g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Calcium"]
+  },
+  {
+    "name": "Breadfruit",
+    "nutrients": {
+      "fiber": "5g",
+      "carbohydrates": "48g",
+      "sugar": "11g"
+    },
+    "vitamins": ["Vitamin C", "Potassium", "Vitamin B6"]
+  },
+  {
+    "name": "Huckleberry",
+    "nutrients": {
+      "fiber": "3g",
+      "carbohydrates": "14g",
+      "sugar": "10g"
+    },
+    "vitamins": ["Vitamin C", "Iron", "Vitamin A"]
+  },
+  {
+    "name": "Langsat",
+    "nutrients": {
+      "fiber": "2g",
+      "carbohydrates": "10g",
+      "sugar": "7g"
+    },
+    "vitamins": ["Vitamin C", "Riboflavin", "Iron"]
+  },
+  {
+    "name": "Kei Apple",
+    "nutrients": {
+      "fiber": "5g",
+      "carbohydrates": "12g",
+      "sugar": "9g"
+    },
+    "vitamins": ["Vitamin C", "Calcium", "Potassium"]
+  },
+  {
+    "name": "Miracle Fruit",
+    "nutrients": {
+      "fiber": "1g",
+      "carbohydrates": "5g",
+      "sugar": "2g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Potassium"]
+  },
+  {
+    "name": "Mountain Ash Berry",
+    "nutrients": {
+      "fiber": "6g",
+      "carbohydrates": "10g",
+      "sugar": "4g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Manganese"]
+  },
+  {
+    "name": "Ackee Fruit",
+    "nutrients": {
+      "fiber": "1g",
+      "carbohydrates": "5g",
+      "sugar": "2g"
+    },
+    "vitamins": ["Vitamin C", "Potassium", "Vitamin B6"]
+  },
+  {
+    "name": "Feijoa",
+    "nutrients": {
+      "fiber": "6g",
+      "carbohydrates": "15g",
+      "sugar": "8g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin B6", "Magnesium"]
+  },
+  {
+    "name": "Black Sapote",
+    "nutrients": {
+      "fiber": "5g",
+      "carbohydrates": "20g",
+      "sugar": "11g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Iron"]
+  },
+  {
+    "name": "White Mulberry",
+    "nutrients": {
+      "fiber": "1g",
+      "carbohydrates": "9g",
+      "sugar": "8g"
+    },
+    "vitamins": ["Vitamin C", "Calcium", "Iron"]
+  },
+  {
+    "name": "Cactus Pear",
+    "nutrients": {
+      "fiber": "4g",
+      "carbohydrates": "10g",
+      "sugar": "9g"
+    },
+    "vitamins": ["Vitamin C", "Magnesium", "Potassium"]
+  },
+  {
+    "name": "Custard Apple",
+    "nutrients": {
+      "fiber": "4g",
+      "carbohydrates": "23g",
+      "sugar": "19g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin B6", "Magnesium"]
+  },
+  {
+    "name": "Mamey Sapote",
+    "nutrients": {
+      "fiber": "5g",
+      "carbohydrates": "40g",
+      "sugar": "21g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Potassium"]
+  },
+  {
+    "name": "Jabuticaba",
+    "nutrients": {
+      "fiber": "3g",
+      "carbohydrates": "15g",
+      "sugar": "13g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin B2", "Potassium"]
+  },
+  {
+    "name": "Horned Melon",
+    "nutrients": {
+      "fiber": "1g",
+      "carbohydrates": "8g",
+      "sugar": "3g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Magnesium"]
+  },
+  {
+    "name": "Loquat",
+    "nutrients": {
+      "fiber": "2g",
+      "carbohydrates": "18g",
+      "sugar": "11g"
+    },
+    "vitamins": ["Vitamin A", "Vitamin B6", "Magnesium"]
+  },
+  {
+    "name": "Pequi",
+    "nutrients": {
+      "fiber": "3g",
+      "carbohydrates": "9g",
+      "sugar": "3g"
+    },
+    "vitamins": ["Vitamin A", "Vitamin C", "Iron"]
+  },
+  {
+    "name": "Rose Apple",
+    "nutrients": {
+      "fiber": "1g",
+      "carbohydrates": "5g",
+      "sugar": "3g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Calcium"]
+  },
+  {
+    "name": "Surinam Cherry",
+    "nutrients": {
+      "fiber": "2g",
+      "carbohydrates": "5g",
+      "sugar": "3g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Iron"]
+  },
+  {
+    "name": "Pawpaw",
+    "nutrients": {
+      "fiber": "7g",
+      "carbohydrates": "30g",
+      "sugar": "18g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin B6", "Potassium"]
+  },
+  {
+    "name": "Buddha's Hand",
+    "nutrients": {
+      "fiber": "2g",
+      "carbohydrates": "12g",
+      "sugar": "7g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin B6", "Potassium"]
+  },
+  {
+    "name": "Red Banana",
+    "nutrients": {
+      "fiber": "4g",
+      "carbohydrates": "29g",
+      "sugar": "14g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin B6", "Potassium"]
+  },
+  {
+    "name": "Manila Mango",
+    "nutrients": {
+      "fiber": "2g",
+      "carbohydrates": "25g",
+      "sugar": "23g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Folate"]
+  },
+  {
+    "name": "Ice Cream Bean",
+    "nutrients": {
+      "fiber": "3g",
+      "carbohydrates": "10g",
+      "sugar": "5g"
+    },
+    "vitamins": ["Vitamin C", "Calcium", "Iron"]
+  },
+  {
+    "name": "Bignay",
+    "nutrients": {
+      "fiber": "1g",
+      "carbohydrates": "7g",
+      "sugar": "3g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Calcium"]
+  },
+  {
+    "name": "Hog Plum",
+    "nutrients": {
+      "fiber": "3g",
+      "carbohydrates": "8g",
+      "sugar": "5g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Potassium"]
+  },
+  {
+    "name": "Wood Apple",
+    "nutrients": {
+      "fiber": "6g",
+      "carbohydrates": "30g",
+      "sugar": "20g"
+    },
+    "vitamins": ["Vitamin C", "Calcium", "Potassium"]
+  },
+  {
+    "name": "Monkey Orange",
+    "nutrients": {
+      "fiber": "4g",
+      "carbohydrates": "18g",
+      "sugar": "13g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Magnesium"]
+  },
+  {
+    "name": "Mamoncillo",
+    "nutrients": {
+      "fiber": "1g",
+      "carbohydrates": "8g",
+      "sugar": "5g"
+    },
+    "vitamins": ["Vitamin C", "Iron", "Phosphorus"]
+  },
+  {
+    "name": "Chokecherry",
+    "nutrients": {
+      "fiber": "3g",
+      "carbohydrates": "15g",
+      "sugar": "10g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Potassium"]
+  },
+  {
+    "name": "Barberry",
+    "nutrients": {
+      "fiber": "4g",
+      "carbohydrates": "18g",
+      "sugar": "12g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin K", "Iron"]
+  },
+  {
+    "name": "Acerola Cherry",
+    "nutrients": {
+      "fiber": "1g",
+      "carbohydrates": "8g",
+      "sugar": "6g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Calcium"]
+  },
+  {
+    "name": "Cranberry Hibiscus",
+    "nutrients": {
+      "fiber": "1g",
+      "carbohydrates": "5g",
+      "sugar": "3g"
+    },
+    "vitamins": ["Vitamin C", "Calcium", "Iron"]
+  },
+  {
+    "name": "Chempedak",
+    "nutrients": {
+      "fiber": "2g",
+      "carbohydrates": "30g",
+      "sugar": "22g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Magnesium"]
+  },
+  {
+    "name": "Sapote",
+    "nutrients": {
+      "fiber": "5g",
+      "carbohydrates": "24g",
+      "sugar": "14g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Calcium"]
+  },
+  {
+    "name": "Finger Lime",
+    "nutrients": {
+      "fiber": "1g",
+      "carbohydrates": "6g",
+      "sugar": "3g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin B6", "Potassium"]
+  },
+  {
+    "name": "Desert Lime",
+    "nutrients": {
+      "fiber": "2g",
+      "carbohydrates": "9g",
+      "sugar": "5g"
+    },
+    "vitamins": ["Vitamin C", "Calcium", "Iron"]
+  },
+  {
+    "name": "Tamarillo",
+    "nutrients": {
+      "fiber": "4g",
+      "carbohydrates": "10g",
+      "sugar": "6g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Potassium"]
+  },
+  {
+    "name": "Sugar Apple",
+    "nutrients": {
+      "fiber": "4g",
+      "carbohydrates": "25g",
+      "sugar": "20g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin B6", "Magnesium"]
+  },
+  {
+    "name": "Pineberry",
+    "nutrients": {
+      "fiber": "2g",
+      "carbohydrates": "8g",
+      "sugar": "5g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Calcium"]
+  },
+  {
+    "name": "Atemoya",
+    "nutrients": {
+      "fiber": "5g",
+      "carbohydrates": "23g",
+      "sugar": "19g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin B6", "Potassium"]
+  },
+  {
+    "name": "Malay Apple",
+    "nutrients": {
+      "fiber": "2g",
+      "carbohydrates": "7g",
+      "sugar": "5g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Calcium"]
+  },
+  {
+    "name": "Capulin Cherry",
+    "nutrients": {
+      "fiber": "3g",
+      "carbohydrates": "15g",
+      "sugar": "11g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Potassium"]
+  },
+  {
+    "name": "Safou (Butterfruit)",
+    "nutrients": {
+      "fiber": "5g",
+      "carbohydrates": "12g",
+      "sugar": "8g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Iron"]
+  },
+  {
+    "name": "Velvet Apple",
+    "nutrients": {
+      "fiber": "6g",
+      "carbohydrates": "28g",
+      "sugar": "19g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin B6", "Calcium"]
+  },
+  {
+    "name": "Kepel Fruit",
+    "nutrients": {
+      "fiber": "2g",
+      "carbohydrates": "14g",
+      "sugar": "9g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Potassium"]
+  },
+  {
+    "name": "Star Apple",
+    "nutrients": {
+      "fiber": "5g",
+      "carbohydrates": "23g",
+      "sugar": "15g"
+    },
+    "vitamins": ["Vitamin C", "Calcium", "Iron"]
+  },
+  {
+    "name": "Marang",
+    "nutrients": {
+      "fiber": "2g",
+      "carbohydrates": "20g",
+      "sugar": "14g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Potassium"]
+  },
+  {
+    "name": "Ice Apple",
+    "nutrients": {
+      "fiber": "1g",
+      "carbohydrates": "8g",
+      "sugar": "5g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin B6", "Magnesium"]
+  },
+  {
+    "name": "Soursop",
+    "nutrients": {
+      "fiber": "7g",
+      "carbohydrates": "38g",
+      "sugar": "30g"
+    },
+    "vitamins": ["Vitamin C", "Potassium", "Magnesium"]
+  },
+  {
+    "name": "Pitaya (Yellow Dragonfruit)",
+    "nutrients": {
+      "fiber": "5g",
+      "carbohydrates": "13g",
+      "sugar": "9g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Iron"]
+  },
+  {
+    "name": "Water Apple",
+    "nutrients": {
+      "fiber": "1g",
+      "carbohydrates": "7g",
+      "sugar": "5g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Calcium"]
+  },
+  {
+    "name": "Desert Fig",
+    "nutrients": {
+      "fiber": "3g",
+      "carbohydrates": "18g",
+      "sugar": "12g"
+    },
+    "vitamins": ["Vitamin C", "Iron", "Potassium"]
+  },
+  {
+    "name": "Cupuacu",
+    "nutrients": {
+      "fiber": "7g",
+      "carbohydrates": "27g",
+      "sugar": "17g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin B1", "Magnesium"]
+  },
+  {
+    "name": "Mountain Soursop",
+    "nutrients": {
+      "fiber": "6g",
+      "carbohydrates": "22g",
+      "sugar": "15g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin B6", "Potassium"]
+  },
+  {
+    "name": "Rose Hip",
+    "nutrients": {
+      "fiber": "2g",
+      "carbohydrates": "15g",
+      "sugar": "10g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Calcium"]
+  },
+  {
+    "name": "White Sapote",
+    "nutrients": {
+      "fiber": "4g",
+      "carbohydrates": "20g",
+      "sugar": "12g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Potassium"]
+  },
+  {
+    "name": "Illawarra Plum",
+    "nutrients": {
+      "fiber": "3g",
+      "carbohydrates": "12g",
+      "sugar": "8g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin E", "Calcium"]
+  },
+  {
+    "name": "Baobab Fruit",
+    "nutrients": {
+      "fiber": "10g",
+      "carbohydrates": "40g",
+      "sugar": "15g"
+    },
+    "vitamins": ["Vitamin C", "Calcium", "Potassium"]
+  },
+  {
+    "name": "Mountain Papaya",
+    "nutrients": {
+      "fiber": "3g",
+      "carbohydrates": "12g",
+      "sugar": "8g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Potassium"]
+  },
+  {
+    "name": "Kiwiberry",
+    "nutrients": {
+      "fiber": "2g",
+      "carbohydrates": "10g",
+      "sugar": "6g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin K", "Potassium"]
+  },
+  {
+    "name": "Monkeyfruit",
+    "nutrients": {
+      "fiber": "3g",
+      "carbohydrates": "18g",
+      "sugar": "12g"
+    },
+    "vitamins": ["Vitamin C", "Iron", "Potassium"]
+  },
+  {
+    "name": "Rata Apple",
+    "nutrients": {
+      "fiber": "2g",
+      "carbohydrates": "8g",
+      "sugar": "6g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Calcium"]
+  },
+  {
+    "name": "Cluster Fig",
+    "nutrients": {
+      "fiber": "5g",
+      "carbohydrates": "20g",
+      "sugar": "15g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin B6", "Iron"]
+  },
+  {
+    "name": "Jocote",
+    "nutrients": {
+      "fiber": "3g",
+      "carbohydrates": "15g",
+      "sugar": "11g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Potassium"]
+  },
+  {
+    "name": "Safou",
+    "nutrients": {
+      "fiber": "4g",
+      "carbohydrates": "9g",
+      "sugar": "5g"
+    },
+    "vitamins": ["Vitamin C", "Calcium", "Magnesium"]
+  },
+  {
+    "name": "Ambarella",
+    "nutrients": {
+      "fiber": "3g",
+      "carbohydrates": "15g",
+      "sugar": "10g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Calcium"]
+  },
+  {
+    "name": "Karanda",
+    "nutrients": {
+      "fiber": "2g",
+      "carbohydrates": "10g",
+      "sugar": "7g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Iron"]
+  },
+  {
+    "name": "Bilimbi",
+    "nutrients": {
+      "fiber": "1g",
+      "carbohydrates": "5g",
+      "sugar": "3g"
+    },
+    "vitamins": ["Vitamin C", "Calcium", "Potassium"]
+  },
+  {
+    "name": "Madrono",
+    "nutrients": {
+      "fiber": "4g",
+      "carbohydrates": "12g",
+      "sugar": "9g"
+    },
+    "vitamins": ["Vitamin C", "Iron", "Magnesium"]
+  },
+  {
+    "name": "Governor's Plum",
+    "nutrients": {
+      "fiber": "3g",
+      "carbohydrates": "10g",
+      "sugar": "6g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Potassium"]
+  },
+  {
+    "name": "Wood Pear",
+    "nutrients": {
+      "fiber": "5g",
+      "carbohydrates": "18g",
+      "sugar": "12g"
+    },
+    "vitamins": ["Vitamin C", "Calcium", "Magnesium"]
+  },
+  {
+    "name": "White Jaboticaba",
+    "nutrients": {
+      "fiber": "2g",
+      "carbohydrates": "10g",
+      "sugar": "8g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Potassium"]
+  },
+  {
+    "name": "Purple Mangosteen",
+    "nutrients": {
+      "fiber": "5g",
+      "carbohydrates": "18g",
+      "sugar": "15g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Magnesium"]
+  },
+  {
+    "name": "Santol",
+    "nutrients": {
+      "fiber": "4g",
+      "carbohydrates": "12g",
+      "sugar": "7g"
+    },
+    "vitamins": ["Vitamin C", "Iron", "Calcium"]
+  },
+  {
+    "name": "Monkey Bread Fruit",
+    "nutrients": {
+      "fiber": "8g",
+      "carbohydrates": "25g",
+      "sugar": "18g"
+    },
+    "vitamins": ["Vitamin C", "Calcium", "Potassium"]
+  },
+  {
+    "name": "Sapodilla Plum",
+    "nutrients": {
+      "fiber": "9g",
+      "carbohydrates": "25g",
+      "sugar": "15g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Iron"]
+  },
+  {
+    "name": "Mora de Castilla",
+    "nutrients": {
+      "fiber": "8g",
+      "carbohydrates": "12g",
+      "sugar": "5g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Potassium"]
+  },
+  {
+    "name": "Gac Fruit",
+    "nutrients": {
+      "fiber": "2g",
+      "carbohydrates": "10g",
+      "sugar": "7g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Lycopene"]
+  },
+  {
+    "name": "Cluster Apple",
+    "nutrients": {
+      "fiber": "5g",
+      "carbohydrates": "20g",
+      "sugar": "13g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Iron"]
+  },
+  {
+    "name": "Ceylon Olive",
+    "nutrients": {
+      "fiber": "3g",
+      "carbohydrates": "10g",
+      "sugar": "5g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Magnesium"]
+  },
+  {
+    "name": "Black Mulberry",
+    "nutrients": {
+      "fiber": "4g",
+      "carbohydrates": "12g",
+      "sugar": "9g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin K", "Iron"]
+  },
+  {
+    "name": "Betel Nut",
+    "nutrients": {
+      "fiber": "1g",
+      "carbohydrates": "7g",
+      "sugar": "3g"
+    },
+    "vitamins": ["Vitamin C", "Calcium", "Potassium"]
+  },
+  {
+    "name": "Sea Grape",
+    "nutrients": {
+      "fiber": "3g",
+      "carbohydrates": "14g",
+      "sugar": "10g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Magnesium"]
+  },
+  {
+    "name": "Balsam Apple",
+    "nutrients": {
+      "fiber": "4g",
+      "carbohydrates": "15g",
+      "sugar": "10g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Potassium"]
+  },
+  {
+    "name": "Noni",
+    "nutrients": {
+      "fiber": "3g",
+      "carbohydrates": "9g",
+      "sugar": "5g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Iron"]
+  },
+  {
+    "name": "African Cucumber",
+    "nutrients": {
+      "fiber": "2g",
+      "carbohydrates": "8g",
+      "sugar": "3g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Magnesium"]
+  },
+  {
+    "name": "Burmese Grape",
+    "nutrients": {
+      "fiber": "4g",
+      "carbohydrates": "12g",
+      "sugar": "9g"
+    },
+    "vitamins": ["Vitamin C", "Vitamin A", "Calcium"]
+  }
+]
