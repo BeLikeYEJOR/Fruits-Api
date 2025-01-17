@@ -10,7 +10,6 @@ app.get("/fruits", (req, res) => {
   const vitamins = req.query.vitamins;
 
   let filters = [];
-  let searchFunction = null; 
 
   if (name) {
     filters.push((fruit) =>

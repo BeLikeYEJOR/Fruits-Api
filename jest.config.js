@@ -1,5 +1,3 @@
-const config = {
-    testMatch: ['./api/**/*.test.js']
-}
+const config = {};
 
-module.exports = config
+module.exports = config;

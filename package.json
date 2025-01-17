@@ -1,9 +1,10 @@
 {
   "name": "foods-api",
-  "version": "1.0.0",
+  "version": "1.1.0-beta",
   "main": "server.js",
   "scripts": {
-    "test": "node --test --watch",
+    "test": "jest",
+    "test:watch": "jest --watchAll ./api",
     "start": "nodemon"
   },
   "keywords": [],

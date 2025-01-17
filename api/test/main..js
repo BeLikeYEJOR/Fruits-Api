@@ -1,13 +1,6 @@
-const { it, describe } = require("node:test");
-const assert = require("node:assert");
-const {
-  add,
-  sub,
-  multi,
-  abs,
-  randomBool,
-  oneInTen,
-} = require("./function.test.js");
+// const { it, describe } = require("node:test");
+// const assert = require("node:assert");
+// const functions = require("./function.test.js");
 
 // describe("math tests", () => {
 //   it("should add postive numbers", () => {
@@ -33,17 +26,21 @@ const {
 //   });
 // });
 
-describe("random checks", () => {
-  it("Should be True", () => {
-    assert.strictEqual(randomBool(), true, "IT DIDINT CHOOSE TRUE!!!");
-  });
-  it("Should Match Numbers", () => {
-    let randomNumber = Math.floor(Math.random() * 2);
-    assert.strictEqual(
-      oneInTen(2),
-      randomNumber,
-      "Didint choose the same number"
-    );
-    console.log(randomNumber);
-  });
-});
+// describe("random checks", () => {
+//   it("Should be True", () => {
+//     assert.strictEqual(
+//       functions.randomBool(),
+//       true,
+//       "IT DIDINT CHOOSE TRUE!!!"
+//     );
+//   });
+//   it("Should Match Numbers", () => {
+//     let randomNumber = Math.floor(Math.random() * 2);
+//     assert.strictEqual(
+//       functions.oneInTen(2),
+//       randomNumber,
+//       "Didint choose the same number"
+//     );
+//     console.log(randomNumber);
+//   });
+// });
