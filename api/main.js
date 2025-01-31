@@ -19,7 +19,9 @@ app.get("/fruits", (req, res) => {
 
   if (vitamins) {
     filters.push((fruit) =>
-      fruit.vitamins.map((i) => i.toLocaleLowerCase()).includes(vitamins)
+      fruit.vitamins
+        .map((i) => i.toLocaleLowerCase())
+        .includes(vitamins.toLowerCase())
     );
   }
 
